@@ -536,6 +536,10 @@ section {
   font-size: 20px;
 }
 
+.languages .description i {
+    color: #149ddd;
+}
+
 
 @-webkit-keyframes animate-loading {
   0% {
